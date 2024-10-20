@@ -39,6 +39,10 @@
   .btn {
     padding: 12px 24px;
   }
+  .hero {
+    padding: 80px 20px 80px;
+    height: auto;
+  }
 }
 
 @media (max-width: 767px) {
